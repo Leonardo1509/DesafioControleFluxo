@@ -4,7 +4,7 @@ public class ParametrosInvalidosException extends Exception {
     }
 
     public char[] getMessage(String string) {
-        // TODO Auto-generated method stub
+        // TODO Auto-generated method stub .
         throw new UnsupportedOperationException("Unimplemented method 'getMessage'");
     }
 }
